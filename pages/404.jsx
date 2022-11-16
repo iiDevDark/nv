@@ -1,7 +1,7 @@
 import ErrorPage from '../components/ErrorPage';
 const UnkownPage = () => {
     let messages = [
-        'Have you lost your way, kiddo?',
+        'دخلت غلط',
         'Damn it! This dead-end road.',
         'The Aurors blocked this road, Harry!'
     ];
