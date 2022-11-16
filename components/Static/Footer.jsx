@@ -29,7 +29,7 @@ export default function Footer() {
                                             aria-hidden="true"
                                         />
                                     </Menu.Button>
-<div className="py-1"></div>
+
 
                                 </div>
                             </Menu>
