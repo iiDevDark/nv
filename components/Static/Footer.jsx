@@ -54,31 +54,7 @@ export default function Footer() {
                                     Invite Bot
                                 </a>
                             </div>
-                        </div>
-                        <div className="col-span-1">
-                            <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Social</p>
-                            <div>
-                                <Link href="https://discord.gg/ST89uArTdh">
-                                    <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                    <i className={`fa-brands fa-discord`} /> Disocrd 
-                                    </a>
-                                </Link>
-                            </div>
-                            <div>
-                                <Link href="https://github.com/1umutda/MusicBot">
-                                    <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                    <i className={`fa-brands fa-github`} /> GitHub 
-                                    </a>
-                                </Link>
-                            </div>
-                            <div>
-                                <Link href="https://youtube.com/UmutBayraktarYT">
-                                    <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                    <i className={`fa-brands fa-youtube`} /> YouTube 
-                                    </a>
-                                </Link>
-                            </div>
-                        </div>
+  
                         <div className="col-span-1">
                             <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Important</p>
                             <div>
