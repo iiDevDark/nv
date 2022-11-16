@@ -44,11 +44,11 @@ const Header = ({ $, NavItems }) => {
     const { theme, setTheme } = useTheme();
 
     const colorsThemes = [
-        { id: 'violet', color: 'violet', label: 'Violet' },
-        { id: 'blue', color: 'blue', label: 'Sky' },
-        { id: 'emerald', color: 'emerald', label: 'Emerald' },
-        { id: 'rose', color: 'rose', label: 'Rose' },
-        { id: 'amber', color: 'amber', label: 'Amber' },
+        { id: 'violet', color: 'violet', label: 'بنفسجي' },
+        { id: 'blue', color: 'blue', label: 'سماوي' },
+        { id: 'emerald', color: 'emerald', label: 'زمرد' },
+        { id: 'rose', color: 'rose', label: 'وردي' },
+        { id: 'amber', color: 'amber', label: 'كهرمان' },
     ];
    
     const ChangeColor = id => {
