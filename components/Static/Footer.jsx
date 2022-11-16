@@ -28,7 +28,7 @@ export default function Footer() {
                                             className="w-5 h-5 ml-2 -mr-1 transform rotate-180 text-violet-200 hover:text-violet-100"
                                             aria-hidden="true"
                                         />
-       
+                  </Menu.Button>
                         
                         </div>
                         <div className="col-span-1">
